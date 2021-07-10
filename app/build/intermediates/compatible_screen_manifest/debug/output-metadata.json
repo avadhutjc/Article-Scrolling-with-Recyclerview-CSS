@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a127july_recyclerview_1_article_scrolling_with_recyclerview_you1",
+  "variantName": "debug",
+  "elements": []
+}
