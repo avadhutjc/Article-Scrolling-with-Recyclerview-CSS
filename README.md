@@ -1,2 +1,1 @@
-# Article-Scrolling-with-Recyclerview-CSS
 # RecyclerView_1_Article_Scrolling_with_Recyclerview_You1
